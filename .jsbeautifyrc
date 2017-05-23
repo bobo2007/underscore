@@ -1,0 +1,5 @@
+{
+  "brace_style": "collapse-preserve-inline",
+    "max_preserve_newlines": 4, //<---this
+    "preserve_newlines": true // <---this too
+}
